@@ -1,4 +1,4 @@
-<h1 align="center">Hello , I'm Carolina Naranjo :gem: NAFE</h1>
+<h1 align="center">Hello , I'm Carolina :gem: NAFE</h1>
 <p align="center">
   
 </p>
