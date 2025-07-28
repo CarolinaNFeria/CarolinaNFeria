@@ -5,10 +5,10 @@
 <hr/>
 <h4 align="center">Creator of innovative solutions and efficient alternatives, designer of practical, reliable, and visually unobtrusive navigable environments ;) Full-Stack Software Developer at full throttle...I like saving the world with my hands and mind!</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=CarolinaNFeria&label=Profile%20views&color=0e75b6&style=plastic" alt="CarolinaNFeria" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=CarolinaNFeria&label=Profile%20views&color=0e75b6&style=plastic" alt="CarolinaNFeria"/> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CarolinaNFeria&theme=algolia" alt="CarolinaaNFeria"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CarolinaNFeria&theme=algolia" alt="CarolinaNFeria"  /></p>
 
 
 ## 🛠️ My Skills
