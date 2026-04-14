@@ -3,90 +3,69 @@
   
 </p>
 <hr/>
-<h4 align="center">Creator of innovative solutions and efficient alternatives, designer of practical, reliable, and visually unobtrusive navigable environments ;) Full-Stack Software Developer at full throttle...I like saving the world with my hands and mind!</h4>
+<h4 align="center">Creator of innovative solutions and efficient alternatives, designer of practical, reliable, and visually unobtrusive navigable environments ;) Full Stack Software Developer at full throttle...I like saving the world with my hands and mind!</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=CarolinaNFeria&label=Profile%20views&color=0e75b6&style=plastic" alt="CarolinaNFeria"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=CarolinaNFeria&label=Profile%20views&color=EA4AAA&style=plano" alt="CarolinaNFeria"/> </p>
 
-## 🔥 Streak Stats
+## <h2 align="center">🔥 Streak Stats <h2/>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CarolinaNFeria&theme=algolia" alt="CarolinaNFeria"  /></p>
 
 
-## 🛠️ My Skills
+## <h2 align="center"> 🛠️ My Skills <h2/>
 
-### 👉 Frontend Development
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-  </a> 
-   &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
-  </a>
+### <h3 align="center"> 👉 Frontend Development </h3>
+<p align="center"> 
+  <img alt="Static Badge" src="https://img.shields.io/badge/Npm-black?style=flat&logo=npm">
+  <img alt="Static Badge" src="https://img.shields.io/badge/React-pink?style=flat&logo=react">
+  <img alt="Static Badge" src="https://img.shields.io/badge/CSS-gray?style=flat&logo=css">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Balsamiq-purple?style=flat">
+  <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-green?style=flat&logo=bootstrap">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Vite-pink?style=flat&logo=vite">
+
 </p>
 
-### 👉 Databases & Cloud Hosting
-<p align="left">
-  &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
- </p>
+### <h3 align="center"> 👉 Backend Development </h3>
+<p align="center">
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-black?style=flat&logo=python">
+<img alt="Static Badge" src="https://img.shields.io/badge/Node.JS-white?style=flat&logo=nodedotjs">
+<img alt="Static Badge" src="https://img.shields.io/badge/Flask-yellow?style=flat&logo=flask">
+<img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-violet?style=flat&logo=postgresql">
+<img alt="Static Badge" src="https://img.shields.io/badge/Postman-green?style=flat&logo=postman">
+<img alt="Static Badge" src="https://img.shields.io/badge/SQLite-yellow?style=flat&logo=sqlite">
+<img alt="Static Badge" src="https://img.shields.io/badge/SQLAlchemy-blue?style=flat&logo=sqlalchemy">
+
+</p>
   
-### 👉Graphic Designing
-<p align="left">
-       &emsp;
-  <a href="#">
-  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
-  </a>
- </p>
+###  <h3 align="center"> 👉 Graphic Designing </h3>
+<p align="center">
+<img alt="Static Badge" src="https://img.shields.io/badge/Figma-white?style=flat&logo=figma">
+<img alt="Static Badge" src="https://img.shields.io/badge/Canva-blue?style=flat">
+<p/>
 
- ### 👉 Software & Tools
+
+ ### <h3 align="center"> 👉 Software & Tools </h3>
  
-<p>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-  &emsp;
+<p align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Git-pink?style=flat&logo=git"> 
+  <img alt="Static Badge" src="https://img.shields.io/badge/Github-purple?style=flat&logo=github">
 </p>
 
 <br/>
 
-## 📊 Github Stats (Expand to View) 
+###  <h2 align="center"> 📊 GitHub Profile Stats</h2> 
 
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Carolina's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CarolinaNFeria&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CarolinaNFeria&show_icons=true&locale=en&layout=compact&theme=algolia" alt="CarolinaNFeria" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
+  <a href="https://github.com/CarolinaNFeria">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CarolinaNFeria&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/CarolinaNFeria">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CarolinaNFeria&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/CarolinaNFeria"><img alt="Carolina's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CarolinaNFeria&custom_title=Carolina%20Naranjo's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
-
-<br/>
-
-## <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Let's Connect <h3/>
+## <h2 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Let's Connect <h2/>
 <p align="center">
 	<a href="mailto:rogua20.12@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/CarolinaNFeria"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
