@@ -13,15 +13,6 @@
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
-
-<p align="left"> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-</p>
-
 ### 👉 Frontend Development
 <p align="left"> 
   &emsp; 
@@ -95,7 +86,7 @@
 
 <br/>
 
-## <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conne Let's Connect <h3/>
+## <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Let's Connect <h3/>
 <p align="center">
 	<a href="mailto:rogua20.12@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/CarolinaNFeria"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
