@@ -28,18 +28,15 @@
 ### <h3 align="center"> 👉 Backend Development </h3>
 <p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-black?style=flat&logo=python">
-<img alt="Static Badge" src="https://img.shields.io/badge/Node.JS-white?style=flat&logo=nodedotjs">
 <img alt="Static Badge" src="https://img.shields.io/badge/Flask-yellow?style=flat&logo=flask">
 <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-violet?style=flat&logo=postgresql">
 <img alt="Static Badge" src="https://img.shields.io/badge/Postman-green?style=flat&logo=postman">
-<img alt="Static Badge" src="https://img.shields.io/badge/SQLite-yellow?style=flat&logo=sqlite">
 <img alt="Static Badge" src="https://img.shields.io/badge/SQLAlchemy-blue?style=flat&logo=sqlalchemy">
 
 </p>
   
 ###  <h3 align="center"> 👉 Graphic Designing </h3>
 <p align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/Figma-white?style=flat&logo=figma">
 <img alt="Static Badge" src="https://img.shields.io/badge/Canva-blue?style=flat">
 <p/>
 
